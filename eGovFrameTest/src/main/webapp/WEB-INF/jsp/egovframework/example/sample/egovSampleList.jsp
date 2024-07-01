@@ -129,7 +129,11 @@
         	  <ul>
         	      <li>
         	          <span class="btn_blue_l">
+<<<<<<< HEAD
         	              <a href="javascript:fn_egov_addView();"><spring:message code="button.create" /> 등록test 555 </a>
+=======
+        	              <a href="javascript:fn_egov_addView();"><spring:message code="button.create" /> 등록test3 </a>
+>>>>>>> branch 'master' of https://github.com/falcon23-ys/study24.git
                           <img src="<c:url value='/images/egovframework/example/btn_bg_r.gif'/>" style="margin-left:6px;" alt=""/>
                       </span>
                   </li>
